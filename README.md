@@ -1,4 +1,4 @@
 freediag-armv6h
 ===============
 
-FreeDiag for Arch Linux ARM
+FreeDiag v1.04 for Arch Linux ARM
